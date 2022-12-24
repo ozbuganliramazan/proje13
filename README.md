@@ -1,5 +1,5 @@
-<h1>Proje13 Web Sayfa </h1>
-<p>Html css web sayfa </p>
+<h1> Web Site/h1>
+<p> Web Page with HTML CSS</p>
 
 
 
