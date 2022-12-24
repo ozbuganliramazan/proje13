@@ -1,4 +1,4 @@
-<h1> Web Site/h1>
+<h1> Web Site</h1>
 <p> Web Page with HTML CSS</p>
 
 
